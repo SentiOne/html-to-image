@@ -1,3 +1,7 @@
+<h1>Warning!!! Package added to our SO code due to problem with tanspiling package to es5 (IE11)</h1>
+
+<hr >
+
 <h1 align="center">html-to-image</h1>
 
 <p align="center"><strong>✂️ Generates an image from a DOM node using HTML5 canvas and SVG.</strong></p>
